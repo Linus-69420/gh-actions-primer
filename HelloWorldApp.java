@@ -1,3 +1,5 @@
 public class HelloWorldApp {
-    console.log("Hello World!");
+    public static void main(String[] args) {
+        System.out.println("Hello Java!");
+    }
 }
